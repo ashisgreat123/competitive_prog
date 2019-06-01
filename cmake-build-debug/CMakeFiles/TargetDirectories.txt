@@ -1,0 +1,3 @@
+/home/yash/CLionProjects/handy_functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yash/CLionProjects/handy_functions/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/yash/CLionProjects/handy_functions/cmake-build-debug/CMakeFiles/edit_cache.dir
